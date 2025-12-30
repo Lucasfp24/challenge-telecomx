@@ -82,5 +82,9 @@ El cheque electrónico se destaca como un método de pago asociado a una alta ta
 ---
 
 Autor: **Lucas Pruya**
+
 Proyecto desarrollado como parte del *Challenge Telecom X Latam*  
+
 📅 Año: 2025
+
+---
