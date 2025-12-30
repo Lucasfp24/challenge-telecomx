@@ -20,8 +20,6 @@ El análisis se diseñó para cumplir con los siguientes pilares estratégicos:
 
 **Generar Insights de Negocio:** Proveer recomendaciones accionables, como la promoción de contratos a largo plazo o la mejora en servicios de valor agregado, para reducir la tasa de Churn.
 
-**Preparación para Modelado:** Estructurar los datos de manera óptima para el posterior entrenamiento de modelos de clasificación predictiva.
-
 ---
 
 ## 🛠️ Tecnologías Utilizadas
