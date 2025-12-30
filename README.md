@@ -2,8 +2,12 @@
 
 Este proyecto forma parte de un desafío técnico centrado en la industria de las telecomunicaciones. El objetivo principal es analizar el comportamiento de los clientes de TelecomX en la región LATAM para identificar patrones de abandono (Churn) y proponer estrategias basadas en datos para mejorar la retención.
 
+---
+
 ## 📋 Descripción del Proyecto
 El análisis se centra en un conjunto de datos que incluye información demográfica, servicios contratados, historial de facturación y estado de permanencia de los clientes. A través de este notebook, se realiza un proceso completo de Data Science, desde la limpieza inicial hasta la visualización de hallazgos clave.
+
+---
 
 ## 🎯 Objetivos del Proyecto
 El análisis se diseñó para cumplir con los siguientes pilares estratégicos:
@@ -18,6 +22,8 @@ Generar Insights de Negocio: Proveer recomendaciones accionables, como la promoc
 
 Preparación para Modelado: Estructurar los datos de manera óptima para el posterior entrenamiento de modelos de clasificación predictiva.
 
+---
+
 ## 🛠️ Tecnologías Utilizadas
 Lenguaje: Python 3
 
@@ -30,6 +36,8 @@ Pandas: Manipulación y limpieza de datos.
 NumPy: Operaciones numéricas.
 
 Matplotlib & Seaborn: Visualización de datos y análisis estadístico gráfico.
+
+---
 
 ## 📊 Estructura del Análisis
 El notebook está organizado en las siguientes secciones:
@@ -48,6 +56,8 @@ Impacto de los métodos de pago y servicios adicionales (Streaming, Seguridad On
 
 Insights Clave: Identificación de los segmentos de clientes con mayor riesgo de abandono.
 
+---
+
 ## 📈 Hallazgos Principales (Ejemplos)
 
 El riesgo de abandono es crítico durante los primeros 6 meses y disminuye drásticamente a medida que el cliente gana antigüedad.
@@ -57,6 +67,8 @@ La volatilidad de los planes mensuales genera un churn mucho mayor que la estabi
 La fibra óptica y la facturación digital presentan un riesgo mas alto de desercion a pesar de ser opciones modernas.
 
 El cheque electrónico se destaca como un método de pago asociado a una alta tasa de cancelación.
+
+---
 
 Autor: **Lucas Pruya**
 Proyecto desarrollado como parte del *Challenge Telecom X Latam*  
