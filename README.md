@@ -80,11 +80,10 @@ El cheque electrónico se destaca como un método de pago asociado a una alta ta
 - Ejecutar el Notebook: Abre el archivo TelecomX_LATAM.ipynb en tu entorno de Jupyter o Google Colab para replicar el análisis.
 
 ---
+## ✒️ Autor
 
-Autor: **Lucas Pruya**
-
+**Lucas Pruya**
 Proyecto desarrollado como parte del *Challenge Telecom X Latam*  
-
 📅 Año: 2025
 
 ---
