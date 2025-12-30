@@ -68,7 +68,7 @@ El cheque electrónico se destaca como un método de pago asociado a una alta ta
 
 ---
 
-🚀 Cómo utilizar este repositorio
+## 🚀 Cómo utilizar este repositorio
 - Clonar el repositorio:
 
 - git clone https://github.com/Lucasfp24/challenge-telecomx.git
