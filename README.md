@@ -69,17 +69,15 @@ El cheque electrónico se destaca como un método de pago asociado a una alta ta
 ---
 
 🚀 Cómo utilizar este repositorio
-Clonar el repositorio:
+- Clonar el repositorio:
 
-Bash
+- git clone https://github.com/Lucasfp24/challenge-telecomx.git
 
-git clone https://github.com/Lucasfp24/challenge-telecomx.git
-Instalar dependencias: Asegúrate de tener instaladas las librerías necesarias:
+- Instalar dependencias: Asegúrate de tener instaladas las librerías necesarias:
 
-Bash
+- pip install pandas numpy matplotlib seaborn
 
-pip install pandas numpy matplotlib seaborn
-Ejecutar el Notebook: Abre el archivo TelecomX_LATAM.ipynb en tu entorno de Jupyter o Google Colab para replicar el análisis.
+- Ejecutar el Notebook: Abre el archivo TelecomX_LATAM.ipynb en tu entorno de Jupyter o Google Colab para replicar el análisis.
 
 ---
 
