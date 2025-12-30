@@ -58,7 +58,7 @@ Insights Clave: Identificación de los segmentos de clientes con mayor riesgo de
 
 ---
 
-## 📈 Hallazgos Principales (Ejemplos)
+## 📈 Hallazgos Principales
 
 El riesgo de abandono es crítico durante los primeros 6 meses y disminuye drásticamente a medida que el cliente gana antigüedad.
 
