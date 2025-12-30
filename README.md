@@ -12,15 +12,15 @@ El análisis se centra en un conjunto de datos que incluye información demográ
 ## 🎯 Objetivos del Proyecto
 El análisis se diseñó para cumplir con los siguientes pilares estratégicos:
 
-Identificar Factores de Fuga: Determinar cuáles son las variables demográficas y de servicio (tipo de contrato, internet, soporte técnico) que tienen mayor correlación con el abandono de clientes.
+**Identificar Factores de Fuga:** Determinar cuáles son las variables demográficas y de servicio (tipo de contrato, internet, soporte técnico) que tienen mayor correlación con el abandono de clientes.
 
-Segmentación de Perfiles: Clasificar a los usuarios según su comportamiento de consumo y lealtad para entender qué grupos son más vulnerables.
+**Segmentación de Perfiles:** Clasificar a los usuarios según su comportamiento de consumo y lealtad para entender qué grupos son más vulnerables.
 
-Limpieza y Curación de Datos: Transformar un dataset crudo en una fuente de información confiable, gestionando valores nulos y tipos de datos inconsistentes.
+**Limpieza y Curación de Datos:** Transformar un dataset crudo en una fuente de información confiable, gestionando valores nulos y tipos de datos inconsistentes.
 
-Generar Insights de Negocio: Proveer recomendaciones accionables, como la promoción de contratos a largo plazo o la mejora en servicios de valor agregado, para reducir la tasa de Churn.
+**Generar Insights de Negocio:** Proveer recomendaciones accionables, como la promoción de contratos a largo plazo o la mejora en servicios de valor agregado, para reducir la tasa de Churn.
 
-Preparación para Modelado: Estructurar los datos de manera óptima para el posterior entrenamiento de modelos de clasificación predictiva.
+**Preparación para Modelado:** Estructurar los datos de manera óptima para el posterior entrenamiento de modelos de clasificación predictiva.
 
 ---
 
@@ -42,19 +42,19 @@ Matplotlib & Seaborn: Visualización de datos y análisis estadístico gráfico.
 ## 📊 Estructura del Análisis
 El notebook está organizado en las siguientes secciones:
 
-Carga y Exploración Inicial: Inspección de la estructura del dataset, tipos de variables y detección de valores nulos.
+- Carga y Exploración Inicial: Inspección de la estructura del dataset, tipos de variables y detección de valores nulos.
 
-Limpieza de Datos: Tratamiento de datos faltantes, corrección de tipos de datos (como la conversión de TotalCharges a numérico) y eliminación de duplicados.
+- Limpieza de Datos: Tratamiento de datos faltantes, corrección de tipos de datos (como la conversión de TotalCharges a numérico) y eliminación de duplicados.
 
-Análisis Exploratorio de Datos (EDA):
+- Análisis Exploratorio de Datos (EDA):
 
-Distribución de la variable objetivo (Churn).
+- Distribución de la variable objetivo (Churn).
 
-Relación entre el tipo de contrato y la fuga de clientes.
+- Relación entre el tipo de contrato y la fuga de clientes.
 
-Impacto de los métodos de pago y servicios adicionales (Streaming, Seguridad Online, etc.).
+- Impacto de los métodos de pago y servicios adicionales (Streaming, Seguridad Online, etc.).
 
-Insights Clave: Identificación de los segmentos de clientes con mayor riesgo de abandono.
+- Insights Clave: Identificación de los segmentos de clientes con mayor riesgo de abandono.
 
 ---
 
